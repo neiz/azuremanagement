@@ -1,0 +1,17 @@
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\bin\Debug\AzureServices.dll
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\bin\Debug\AzureServices.pdb
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\obj\Debug\AzureServices.dll
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\obj\Debug\AzureServices.pdb
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\bin\Debug\Data.dll
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\bin\Debug\Data.pdb
+C:\Users\Neil\OneDrive\Code\C#\AzureServices\obj\Debug\AzureServices.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\AzureServices.dll
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\AzureServices.pdb
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\Data.dll
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\Data.pdb
+C:\Users\Neil\Desktop\C#\AzureServices\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Neil\Desktop\C#\AzureServices\obj\Debug\AzureServices.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\C#\AzureServices\obj\Debug\AzureServices.dll
+C:\Users\Neil\Desktop\C#\AzureServices\obj\Debug\AzureServices.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="DesktopVmClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Desktop Toasts Sample" Height="400" Width="300" Closing="MainWindow_OnClosing">
+  <StackPanel Orientation="Vertical">
+    <Button x:Name="TurnVmOnButton" Height="50" Click="StartVm"
+            IsEnabled="{Binding Path=HasValues, UpdateSourceTrigger=PropertyChanged}">
+      Turn VM On
+    </Button>
+    <Button x:Name="TurnVmOffButton" Height="50" Click="StopVm"
+            IsEnabled="{Binding Path=HasValues, UpdateSourceTrigger=PropertyChanged}">
+      Turn VM Off
+    </Button>
+    <Button x:Name="ConfigureButton" Height="50" Click="Configure">Configure App</Button>
+    <StackPanel Name="ConfigStack">
+      <TextBlock Text="Subscription Id" />
+      <TextBox Text="{Binding Path=SubscriptionId, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="25" />
+      <TextBlock Text="Cloud Service Name" />
+      <TextBox Text="{Binding Path=CloudServiceName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="25" />
+      <TextBlock Text="Deployment Name" />
+      <TextBox Text="{Binding Path=DeploymentName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="25" />
+      <TextBlock Text="Role Name" />
+      <TextBox Text="{Binding Path=RoleName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="25" />
+    </StackPanel>
+  </StackPanel>
+</Window>

@@ -1,0 +1,9 @@
+C:\Users\Neil\OneDrive\Code\C#\Data\bin\Debug\Data.dll
+C:\Users\Neil\OneDrive\Code\C#\Data\bin\Debug\Data.pdb
+C:\Users\Neil\OneDrive\Code\C#\Data\obj\Debug\Data.dll
+C:\Users\Neil\OneDrive\Code\C#\Data\obj\Debug\Data.pdb
+C:\Users\Neil\Desktop\C#\Data\bin\Debug\Data.dll
+C:\Users\Neil\Desktop\C#\Data\bin\Debug\Data.pdb
+C:\Users\Neil\Desktop\C#\Data\obj\Debug\Data.dll
+C:\Users\Neil\Desktop\C#\Data\obj\Debug\Data.pdb
+C:\Users\Neil\Desktop\C#\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
